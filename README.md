@@ -4,11 +4,9 @@
 
 <p align="center">Hi! My name is Elena and I am a software developer.</p>
 
----
-
 ## 📖 About Me
 
-[I enjoy learning, improving my skills and using new technologies for writing a clean code. I create responsive, dynamic, intuitive and fast web pages & apps.]
+I enjoy learning, improving my skills and using new technologies for writing a clean code. I create responsive, dynamic, intuitive and fast web pages & apps.
 
 ## 💼 Skills
 
@@ -43,20 +41,11 @@
 
 ## 📬 Contact
 
-[Let's get in touch, email me:]
+Let's get in touch, email me:
 
-- Email: [ellena.vrm@gmail.com]
+- Email: ellena.vrm@gmail.com
 
 
----
 
-<p align="center">
-  <img src="https://cdn.glitch.global/4f4ca6cb-e192-4a83-b4e1-606f907793c8/blue3.png?v=1678478885645" alt="Elena V Footer" width='90px'>
-</p>
 
-```css
-body {
-  background-color: black;
-  color: white;
-}
 
