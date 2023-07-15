@@ -54,3 +54,9 @@
   <img src="https://cdn.glitch.global/4f4ca6cb-e192-4a83-b4e1-606f907793c8/blue3.png?v=1678478885645" alt="Elena V Footer" width='90px'>
 </p>
 
+```css
+body {
+  background-color: black;
+  color: white;
+}
+
