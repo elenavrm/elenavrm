@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://github.com/elenavrm/elenavrm/blob/main/elena.png?raw=true" alt="Elena V Logo" width="250px">
+  <img src="https://github.com/elenavrm/elenavrm/blob/main/elena%20(Facebook%20Cover).png?raw=true" alt="Elena V Logo">
 </h1>
 
 <p align="center">Hi! My name is Elena and I am a software developer.</p>
 
-## <img src='https://github.com/elenavrm/elenavrm/blob/main/2.png?raw=true' alt='star' width='90px'> About Me
+## 👩🏽‍💻 About Me
 
 I enjoy learning, improving my skills and using new technologies for writing a clean code. I create responsive, dynamic, intuitive and fast web pages & apps.
 
