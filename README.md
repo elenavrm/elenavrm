@@ -4,7 +4,7 @@
 
 <p align="center">Hi! My name is Elena and I am a software developer.</p>
 
-## <img src='https://github.com/elenavrm/elenavrm/blob/main/2.png?raw=true' alt='star' width='50px'> About Me
+## <img src='https://github.com/elenavrm/elenavrm/blob/main/2.png?raw=true' alt='star' width='90px'> About Me
 
 I enjoy learning, improving my skills and using new technologies for writing a clean code. I create responsive, dynamic, intuitive and fast web pages & apps.
 
