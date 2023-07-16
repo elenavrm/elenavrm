@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cdn.glitch.global/4f4ca6cb-e192-4a83-b4e1-606f907793c8/blue.png?v=1678478878911" alt="Elena V Logo" width="150px">
+  <img src="https://github.com/elenavrm/elenavrm/blob/main/elena.png?raw=true" alt="Elena V Logo" width="150px">
 </h1>
 
 <p align="center">Hi! My name is Elena and I am a software developer.</p>
