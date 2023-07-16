@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/elenavrm/elenavrm/blob/main/elena.png?raw=true" alt="Elena V Logo" width="150px">
+  <img src="https://github.com/elenavrm/elenavrm/blob/main/elena.png?raw=true" alt="Elena V Logo" width="250px">
 </h1>
 
 <p align="center">Hi! My name is Elena and I am a software developer.</p>
