@@ -2,7 +2,6 @@
   <img src="https://github.com/elenavrm/elenavrm/blob/main/elena%20(Facebook%20Cover).png?raw=true" alt="Elena V Logo">
 </h1>
 
-<p align="center">Hi! My name is Elena and I am a software developer.</p>
 
 ## 👩🏽‍💻 About Me
 
