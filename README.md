@@ -22,7 +22,7 @@ I enjoy learning, improving my skills and using new technologies for writing a c
 - *Node.js*
 - *MongoDB*
 
-## 🐱‍💻 Projects
+## 💻 Projects
 
 Check out some of my projects here
 
