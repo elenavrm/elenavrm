@@ -33,9 +33,9 @@ I enjoy learning, improving my skills and using new technologies for writing a c
 
 ## 📧 Contact
 
-Let's get in touch, email me:
+I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via [my email](mailto:ellena.vrm@gmail.com)
 
-- Email: ellena.vrm@gmail.com
+Let's connect and build something awesome together!
 
 
 
