@@ -7,7 +7,7 @@
 
 I enjoy learning, improving my skills and using new technologies for writing a clean code. I create responsive, dynamic, intuitive and fast web pages & apps.
 
-## 👩🏽‍💻 Skills
+## 👩🏽‍💻 Skills and technologies I'm using: 
 
 
 - *HTML/CSS*
