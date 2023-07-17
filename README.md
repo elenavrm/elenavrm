@@ -25,7 +25,7 @@ I enjoy learning, improving my skills and using new technologies for writing a c
 
 ### My projects
 
-[Elena V Portfolio](https://elena-v.glitch.me/ target="_blank")
+[Elena V Portfolio](<a href="https://elena-v.glitch.me/" target="_blank">)
 
 *I am working on adding more projects to my portfolio and GitHub repositories*
 
