@@ -22,21 +22,14 @@ I enjoy learning, improving my skills and using new technologies for writing a c
 - *Node.js*
 - *MongoDB*
 
-## 💻 Projects
 
-Check out some of my projects here
+### My projects
 
-### Project 1
+[Elena V Portfolio](https://elena-v.glitch.me/)
 
-- Description: [Provide a short description of the project, its purpose, and the technologies used.]
-- GitHub Repository: [Add a link to the GitHub repository.]
-- Live Demo: [If applicable, provide a link to a live demo or hosted version of the project.]
+*I am working on adding more projects to my portfolio and GitHub repositories*
 
-### Project 2
 
-- Description: [Provide a short description of the project, its purpose, and the technologies used.]
-- GitHub Repository: [Add a link to the GitHub repository.]
-- Live Demo: [If applicable, provide a link to a live demo or hosted version of the project.]
 
 ## 📧 Contact
 
