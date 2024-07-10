@@ -1,26 +1,24 @@
-<h1 align="center">
-  <img src="https://github.com/elenavrm/elenavrm/blob/main/elena%20(Facebook%20Cover).png?raw=true" alt="Elena V Logo">
-</h1>
-
 
 ## 👩🏽‍💻 About Me
 
-I enjoy learning, improving my skills and using new technologies for writing a clean code. I create responsive, dynamic, intuitive and fast web pages & apps.
+Welcome to my GitHub profile! I'm passionate about creating efficient and elegant solutions in the realm of web development, maintaining responsive, dynamic, intuitive and fast web pages & apps. I enjoy learning, improving my skills and using new technologies for writing a clean code. I love working with Node.js, Express, and MongoDB to build scalable and robust applications. Here's a little about me and some of the projects I've been working on.
 
-## 👩🏽‍💻 Skills and technologies I'm using: 
+## 📈 GitHub Stats
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+## 🛠 Tech Stack
 
 
 - *HTML/CSS*
 - *Bootstrap*
 - *JavaScript*
-- *GSAP and other JS libraries*
+- *GSAP* , *AOS*
 - *React*
-
-**In progress:**
-
 - *Redux*
-- *Node.js*
-- *MongoDB*
+- *Node.js* , *Express*
+- *MongoDB* , *Mongoose*
 
 
 ### My projects
@@ -37,6 +35,20 @@ I'm always open to new opportunities and collaborations. If you'd like to get in
 
 Let's connect and build something awesome together!
 
+
+## 🎨 Personal Interests
+
+When I'm not coding, you can find me:
+
+- Exploring new technologies and keeping up with the latest trends in web development
+- Reading books on personal development and technology
+- Traveling and experiencing new cultures
+- Enjoying a good cup of coffee while brainstorming new project ideas
+- Biohacking, beauty and wellness practices
+
+---
+
+Thanks for stopping by! 😊
 
 
 
