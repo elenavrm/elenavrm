@@ -9,11 +9,6 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenavrm&theme=radical)
 
 
-
-## 📈 Technologies Used
-
-![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
-
 ## 📈 Technologies Used
 
 ![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
