@@ -14,14 +14,14 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 ![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
 
-  ## 🛠 Tech Stack
+ ## 🛠 Tech Stack
 
-| Category  | Technologies | Badges |
-|-----------|--------------|--------|
-| **Frontend** | HTML/CSS, Bootstrap, MUI - Material Design, JavaScript, GSAP, AOS, React, Redux | ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blueviolet?style=flat-square) ![Material UI](https://img.shields.io/badge/Material%20UI-4.11.2-blue?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square) ![GSAP](https://img.shields.io/badge/GSAP-3-green?style=flat-square) ![AOS](https://img.shields.io/badge/AOS-2.3.4-blue?style=flat-square) ![React](https://img.shields.io/badge/React-17.0.2-blue?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-4.1.0-purple?style=flat-square) |
-| **Backend**  | Node.js, Express | ![Node.js](https://img.shields.io/badge/Node.js-14.17.3-green?style=flat-square) ![Express](https://img.shields.io/badge/Express-4.17.1-lightgrey?style=flat-square) |
-| **Databases** | MongoDB, Mongoose | ![MongoDB](https://img.shields.io/badge/MongoDB-4.4.10-green?style=flat-square) ![Mongoose](https://img.shields.io/badge/Mongoose-6.0.12-blue?style=flat-square) |
-| **Tools** | Postman, NPM, Git, VS Code | ![Postman](https://img.shields.io/badge/Postman-8.11-orange?style=flat-square) ![NPM](https://img.shields.io/badge/NPM-7.24.1-red?style=flat-square) ![Git](https://img.shields.io/badge/Git-2.33.0-black?style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-1.64-blue?style=flat-square) |
+| Category    | Skills |
+|-------------|--------|
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square) ![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=flat-square) ![Material UI](https://img.shields.io/badge/MUI-blue?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square) ![GSAP](https://img.shields.io/badge/GSAP-green?style=flat-square) ![AOS](https://img.shields.io/badge/AOS-blue?style=flat-square) ![React](https://img.shields.io/badge/React-blue?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-purple?style=flat-square) |
+| **Backend**  | ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square) ![Express](https://img.shields.io/badge/Express-lightgrey?style=flat-square) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square) ![Mongoose](https://img.shields.io/badge/Mongoose-blue?style=flat-square) |
+| **Tools**    | ![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square) ![NPM](https://img.shields.io/badge/NPM-red?style=flat-square) ![Git](https://img.shields.io/badge/Git-black?style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square) |
 
 
 ## Achievements 🏆
