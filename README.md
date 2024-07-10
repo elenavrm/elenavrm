@@ -17,15 +17,31 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 
 ## 🛠 Tech Stack
 
+### Frontend
 
-- *HTML/CSS*
-- *Bootstrap*
-- *JavaScript*
-- *GSAP* , *AOS*
-- *React*
-- *Redux*
-- *Node.js* , *Express*
-- *MongoDB* , *Mongoose*
+  * HTML/CSS: Structure and styling
+  * Bootstrap: Responsive design and UI components
+  * JavaScript: Frontend logic and interactivity
+  * GSAP: Animation library for enhanced user experience
+  * AOS: Animate on Scroll library for scroll-based animations
+  * React: Frontend library for building dynamic UIs
+  * Redux: State management for React applications
+
+### Backend
+
+  * Node.js: JavaScript runtime for server-side development
+  * Express: Minimalist web framework for Node.js
+
+### Databases
+
+  * MongoDB: NoSQL database for storing application data
+  * Mongoose: MongoDB object modeling for Node.js
+
+### Tools
+
+  * Postman: API development and testing tool
+  * Git: Version control system for tracking changes in codebase
+  * VS Code: Integrated Development Environment (IDE) for coding
 
 
 ## Achievements 🏆
