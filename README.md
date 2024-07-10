@@ -3,16 +3,16 @@
 
 Welcome to my GitHub profile! I'm passionate about creating efficient and elegant solutions in the realm of web development, maintaining responsive, dynamic, intuitive and fast web pages & apps. I enjoy learning, improving my skills and using new technologies for writing a clean code. I love working with React, Node.js, Express, and MongoDB to build scalable and robust applications. Here's a little about me and some of the projects I've been working on.
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=GitHub+Stats)](https://git.io/typing-svg)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenavrm&theme=radical)
 
 
-## 📈 Technologies Used
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=TECHNOLOGIES+USED)](https://git.io/typing-svg)
 
 ![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
-## 🛠 Tech Stack
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=TECH+STACK)](https://git.io/typing-svg)
 
 | Category        | Skills |
 |-----------------|--------|
@@ -21,26 +21,26 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 | **Tools**       | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **Hosting**     | ![Glitch](https://img.shields.io/badge/-Glitch-2800FF?style=for-the-badge&logo=glitch&logoColor=white) ![Render](https://img.shields.io/badge/-Render-333333?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
 
-## Achievements 🏆
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=ACHIEVMENTS)](https://git.io/typing-svg)
 
 - **Second Place at Bootcamp**: Awarded second place for the Hogwarts Journey React App project, which immersed users in the magical world of Harry Potter through an interactive web application. Check out the project [here](https://hogwarts-hp.netlify.app/).
 
 
-### My projects
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=MY+PROJECTS)](https://git.io/typing-svg)
 
 [Elena V Portfolio](https://elena-v.glitch.me/)
 
 *I am working on adding more projects to my portfolio and GitHub repositories*
 
 
-## 📧 Contact
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=CONTACT+ME%3A)](https://git.io/typing-svg)
 
 I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via [my email](mailto:ellena.vrm@gmail.com)
 
 Let's connect and build something awesome together!
 
 
-## 🎨 Personal Interests
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=PERSONAL+INTERESTS)](https://git.io/typing-svg)
 
 When I'm not coding, you can find me:
 
