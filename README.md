@@ -14,14 +14,15 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 ![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
 
- ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 | Category    | Skills |
 |-------------|--------|
-| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square) ![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=flat-square) ![Material UI](https://img.shields.io/badge/MUI-blue?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square) ![GSAP](https://img.shields.io/badge/GSAP-green?style=flat-square) ![AOS](https://img.shields.io/badge/AOS-blue?style=flat-square) ![React](https://img.shields.io/badge/React-blue?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-purple?style=flat-square) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square) ![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?style=flat-square) ![Material UI](https://img.shields.io/badge/MUI-blue?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square) ![GSAP](https://img.shields.io/badge/GSAP-green?style=flat-square) ![AOS](https://img.shields.io/badge/AOS-blue?style=flat-square) ![React](https://img.shields.io/badge/React-blue?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-purple?style=flat-square) ![SASS](https://img.shields.io/badge/SASS-pink?style=flat-square) |
 | **Backend**  | ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square) ![Express](https://img.shields.io/badge/Express-lightgrey?style=flat-square) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square) ![Mongoose](https://img.shields.io/badge/Mongoose-blue?style=flat-square) |
 | **Tools**    | ![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square) ![NPM](https://img.shields.io/badge/NPM-red?style=flat-square) ![Git](https://img.shields.io/badge/Git-black?style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square) |
+| **Hosting**  | ![Glitch](https://img.shields.io/badge/Glitch-pink?style=flat-square) ![Render](https://img.shields.io/badge/Render-blue?style=flat-square) ![Netlify](https://img.shields.io/badge/Netlify-purple?style=flat-square) |
 
 
 ## Achievements 🏆
