@@ -21,28 +21,28 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 ## 🛠 Tech Stack
 
 ### Frontend
-- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML/CSS
-- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
-- <img src="https://img.icons8.com/material-sharp/48/000000/material-ui.png"/> MUI - Material Design
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-- <img src="https://img.icons8.com/fluency/48/000000/gsap.png"/> GSAP
-- <img src="https://img.icons8.com/nolan/48/000000/scroll.png"/> AOS
-- <img src="https://img.icons8.com/office/40/000000/react.png"/> React
-- <img src="https://img.icons8.com/color/48/000000/redux.png"/> Redux
+- HTML/CSS
+- Bootstrap
+- MUI - Material Design
+- JavaScript
+- GSAP
+- AOS
+- React
+- Redux
 
 ### Backend
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
-- <img src="https://img.icons8.com/ios-filled/50/000000/express.png"/> Express
+- Node.js
+- Express
 
 ### Databases
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> Mongoose
+- MongoDB
+- Mongoose
 
 ### Tools
-- <img src="https://img.icons8.com/fluency/48/000000/postman-api.png"/> Postman
-- <img src="https://img.icons8.com/color/48/000000/npm.png"/> NPM
-- <img src="https://img.icons8.com/ios-filled/50/000000/git.png"/> Git
-- <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> VS Code
+- Postman
+- NPM
+- Git
+- VS Code
 
 
 ## Achievements 🏆
