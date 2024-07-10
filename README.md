@@ -72,7 +72,7 @@ When I'm not coding, you can find me:
 - Exploring new technologies and keeping up with the latest trends in web development
 - Reading books on personal development and technology
 - Traveling and experiencing new cultures
-- Enjoying a good cup of coffee while brainstorming new project ideas
+- Enjoying a good cup of matcha while brainstorming new project ideas
 - Biohacking, beauty and wellness practices
 
 ---
