@@ -3,9 +3,9 @@
 
 Welcome to my GitHub profile! I'm passionate about creating efficient and elegant solutions in the realm of web development, maintaining responsive, dynamic, intuitive and fast web pages & apps. I enjoy learning, improving my skills and using new technologies for writing a clean code. I love working with Node.js, Express, and MongoDB to build scalable and robust applications. Here's a little about me and some of the projects I've been working on.
 
-## 📈 GitHub Stats
+## 📈 Technologies Used
 
-![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
 ## 🛠 Tech Stack
