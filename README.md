@@ -14,44 +14,37 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 
 ![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
+## 📈 Technologies Used
+
+![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
 
 ## 🛠 Tech Stack
 
-```html
-<div style="background-color:#0f0c29; background-image: linear-gradient(315deg, #0f0c29 0%, #24243e 74%); padding: 20px; border-radius: 8px;">
-  <p style="color:#ed105f; font-size: 18px;">Frontend</p>
-  <ul style="color: #fff; list-style-type: none; padding-left: 20px;">
-    <li>HTML/CSS</li>
-    <li>Bootstrap</li>
-    <li>MUI - Material Design</li>
-    <li>JavaScript</li>
-    <li>GSAP</li>
-    <li>AOS</li>
-    <li>React</li>
-    <li>Redux</li>
-  </ul>
+### Frontend
+- HTML/CSS
+- Bootstrap
+- MUI - Material Design
+- JavaScript
+- GSAP
+- AOS
+- React
+- Redux
 
-  <p style="color:#ed105f; font-size: 18px;">Backend</p>
-  <ul style="color: #fff; list-style-type: none; padding-left: 20px;">
-    <li>Node.js</li>
-    <li>Express</li>
-  </ul>
+### Backend
+- Node.js
+- Express
 
-  <p style="color:#ed105f; font-size: 18px;">Databases</p>
-  <ul style="color: #fff; list-style-type: none; padding-left: 20px;">
-    <li>MongoDB</li>
-    <li>Mongoose</li>
-  </ul>
+### Databases
+- MongoDB
+- Mongoose
 
-  <p style="color:#ed105f; font-size: 18px;">Tools</p>
-  <ul style="color: #fff; list-style-type: none; padding-left: 20px;">
-    <li>Postman</li>
-    <li>NPM</li>
-    <li>Git</li>
-    <li>VS Code</li>
-  </ul>
-</div>
+### Tools
+- Postman
+- NPM
+- Git
+- VS Code
+
 
 ## Achievements 🏆
 
