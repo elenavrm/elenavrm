@@ -8,49 +8,44 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 ![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenavrm&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenavrm&theme=radical)
 
+
+
 ## 📈 Technologies Used
 
 ![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
+
 ## 🛠 Tech Stack
-```markdown
-<div style="background-color:#0f0c29; background-image: linear-gradient(315deg, #0f0c29 0%, #24243e 74%);">
-  <p style="color:#ed105f;">### Frontend</p>
-  <ul>
-    <li>HTML/CSS</li>
-    <li>Bootstrap</li>
-    <li>MUI - Material Design</li>
-    <li>JavaScript</li>
-    <li>GSAP</li>
-    <li>AOS</li>
-    <li>React</li>
-    <li>Redux</li>
-  </ul>
 
-  <p style="color:#ed105f;">### Backend</p>
-  <ul>
-    <li>Node.js</li>
-    <li>Express</li>
-  </ul>
+### Frontend
+- HTML/CSS
+- Bootstrap
+- MUI - Material Design
+- JavaScript
+- GSAP
+- AOS
+- React
+- Redux
 
-  <p style="color:#ed105f;">### Databases</p>
-  <ul>
-    <li>MongoDB</li>
-    <li>Mongoose</li>
-  </ul>
+### Backend
+- Node.js
+- Express
 
-  <p style="color:#ed105f;">### Tools</p>
-  <ul>
-    <li>Postman</li>
-    <li>NPM</li>
-    <li>Git</li>
-    <li>VS Code</li>
-  </ul>
-</div>
+### Databases
+- MongoDB
+- Mongoose
+
+### Tools
+- Postman
+- NPM
+- Git
+- VS Code
+
 
 ## Achievements 🏆
 
 - **Second Place at Bootcamp**: Awarded second place for the Hogwarts Journey React App project, which immersed users in the magical world of Harry Potter through an interactive web application. Check out the project [here](https://hogwarts-hp.netlify.app/).
+
 
 ### My projects
 
@@ -58,11 +53,14 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 
 *I am working on adding more projects to my portfolio and GitHub repositories*
 
+
+
 ## 📧 Contact
 
 I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via [my email](mailto:ellena.vrm@gmail.com)
 
 Let's connect and build something awesome together!
+
 
 ## 🎨 Personal Interests
 
@@ -77,7 +75,3 @@ When I'm not coding, you can find me:
 ---
 
 Thanks for stopping by! 😊
-
-
-
-
