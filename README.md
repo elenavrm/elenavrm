@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 ## 🛠 Tech Stack
 
 ### Frontend
+### <span style="color: #ed105f;">Frontend</span>
 - HTML/CSS
 - Bootstrap
 - MUI - Material Design
