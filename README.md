@@ -18,26 +18,6 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 
 ![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
-## 🛠 Tech Stack
-
-<details>
-  <summary style="font-size: 1.2em; color: #ed105f;">Frontend</summary>
-  
-  ```markdown
-  - HTML/CSS
-  - Bootstrap
-  - MUI - Material Design
-  - JavaScript
-  - GSAP
-  - AOS
-  - React
-  - Redux
-
-</details>
-
-
-
-
 
 ## 🛠 Tech Stack
 
