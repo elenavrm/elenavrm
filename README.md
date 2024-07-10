@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 
 ## 📊 GitHub Stats
 
-![Elena's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elenavrm&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenavrm&theme=radical)
 
 
@@ -32,6 +31,10 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 [Elena V Portfolio](https://elena-v.glitch.me/)
 
 *I am working on adding more projects to my portfolio and GitHub repositories*
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/elenavrm/elenavrm/blob/output/github-contribution-grid-snake.svg)
 
 
 
