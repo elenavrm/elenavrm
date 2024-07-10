@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FC448D&random=false&width=435&lines=Hi%2C+I+am+Elena+V.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FC448D&random=false&width=435&lines=Hi%2C+I+am+Elena+V.)](https://git.io/typing-svg)
 
 
 Welcome to my GitHub profile! I'm passionate about creating efficient and elegant solutions in the realm of web development, maintaining responsive, dynamic, intuitive and fast web pages & apps. I enjoy learning, improving my skills and using new technologies for writing a clean code. I love working with React, Node.js, Express, and MongoDB to build scalable and robust applications. Here's a little about me and some of the projects I've been working on.
 
-## 📊 GitHub Stats
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=GitHub+Stats)](https://git.io/typing-svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenavrm&theme=radical)
 
