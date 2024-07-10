@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 ### Tools
 
   * Postman: API development and testing tool
+  * NPM: Package manager for JavaScript
   * Git: Version control system for tracking changes in codebase
   * VS Code: Integrated Development Environment (IDE) for coding
 
