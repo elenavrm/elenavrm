@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 
 ## 📈 Technologies Used
 
-![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
 
 ## 🛠 Tech Stack
