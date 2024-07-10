@@ -28,6 +28,11 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 - *MongoDB* , *Mongoose*
 
 
+## Achievements 🏆
+
+- **Second Place at Bootcamp**: Awarded second place for the Hogwarts Journey React App project, which immersed users in the magical world of Harry Potter through an interactive web application. Check out the project [here](https://hogwarts-hp.netlify.app/).
+
+
 ### My projects
 
 [Elena V Portfolio](https://elena-v.glitch.me/)
