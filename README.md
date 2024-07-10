@@ -32,9 +32,6 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 
 *I am working on adding more projects to my portfolio and GitHub repositories*
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/elenavrm/elenavrm/blob/main/github-contribution-grid-snake.svg)
 
 ## 📧 Contact
 
