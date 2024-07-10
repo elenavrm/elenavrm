@@ -18,33 +18,31 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 
 ![Technologies Used](https://github-readme-stats.vercel.app/api/top-langs/?username=elenavrm&layout=compact&theme=radical)
 
-
 ## 🛠 Tech Stack
 
 ### Frontend
-### <span style="color: #ed105f;">Frontend</span>
-- HTML/CSS
-- Bootstrap
-- MUI - Material Design
-- JavaScript
-- GSAP
-- AOS
-- React
-- Redux
+- HTML/CSS ![HTML/CSS Icon](link_to_icon)
+- Bootstrap ![Bootstrap Icon](link_to_icon)
+- MUI - Material Design ![MUI Icon](link_to_icon)
+- JavaScript ![JavaScript Icon](link_to_icon)
+- GSAP ![GSAP Icon](link_to_icon)
+- AOS ![AOS Icon](link_to_icon)
+- React ![React Icon](link_to_icon)
+- Redux ![Redux Icon](link_to_icon)
 
 ### Backend
-- Node.js
-- Express
+- Node.js ![Node.js Icon](link_to_icon)
+- Express ![Express Icon](link_to_icon)
 
 ### Databases
-- MongoDB
-- Mongoose
+- MongoDB ![MongoDB Icon](link_to_icon)
+- Mongoose ![Mongoose Icon](link_to_icon)
 
 ### Tools
-- Postman
-- NPM
-- Git
-- VS Code
+- Postman ![Postman Icon](link_to_icon)
+- NPM ![NPM Icon](link_to_icon)
+- Git ![Git Icon](link_to_icon)
+- VS Code ![VS Code Icon](link_to_icon)
 
 
 ## Achievements 🏆
