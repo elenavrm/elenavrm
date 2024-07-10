@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and elegan
 ## 📊 GitHub Stats
 
 ![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenavrm&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenavrm&theme=radical)
+
 
 
 ## 📈 Technologies Used
