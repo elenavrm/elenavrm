@@ -44,11 +44,11 @@ Let's connect and build something awesome together!
 
 When I'm not coding, you can find me:
 
-- Exploring new technologies and keeping up with the latest trends in web development
-- Reading books on personal development and technology
+- Exploring new technologies and keeping up with the latest trends in tech world
+- Reading all kind of books
 - Traveling and experiencing new cultures
 - Enjoying a good cup of matcha while brainstorming new project ideas
-- Biohacking, beauty and wellness practices
+- Practicing biohacking, beauty and wellness routines
 
 ---
 
