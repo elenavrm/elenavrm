@@ -53,3 +53,5 @@ When I'm not coding, you can find me:
 ---
 
 Thanks for stopping by! 😊
+
+![Snake animation](https://github.com/elenavrm/elenavrm/blob/output/github-contribution-grid-snake.svg)
