@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I’m passionate about creating efficient and eleg
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=8000&pause=1000&color=00D7FE&repeat=false&random=false&width=435&lines=MY+PROJECTS)](https://git.io/typing-svg)
 
-[Elena V Portfolio](https://elena-v.glitch.me/)
+[Elena V Portfolio](https://elv-portfolio.netlify.app/)
 
 *I am working on adding more projects to my portfolio and GitHub repositories*
 
